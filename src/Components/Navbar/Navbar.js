@@ -1,7 +1,6 @@
 import React,{useState} from 'react'
 import { Link } from 'react-router-dom';
-import * as FaIcons from "react-icons/fa";
-import * as AiIcons from "react-icons/ai";
+import {AiFillLinkedin, AiOutlineInstagram} from 'react-icons/ai'
 import {NavbarData} from './NavbarData';
 import {IconContext} from 'react-icons';
 import Fade from 'react-reveal/Fade';
@@ -17,15 +16,22 @@ function Navbar(){
                     {NavbarData.map((item,index) => {
                         return(
                         <li key={index} className={item.cName}>
-                            <Link to={item.path}>
+                            <Link to={item.path} target='_self'>
                                 <h2 className='text'>{item.title}</h2>
                             </Link>
                         </li>
-                        
                         );
                     })}
+                    <div className="contacts">
+                    <Link to="https://www.linkedin.com/in/albert-edmundson-4ab92b277/" target="_blank">
+                        <AiFillLinkedin size={20}/>
+                    </Link>
+                    <AiOutlineInstagram size={20}/>
+                </div>
                 </ul>
+                
                 </nav>
+                
             </IconContext.Provider>
             </div>
         </>

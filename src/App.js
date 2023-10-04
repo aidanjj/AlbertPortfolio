@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './Components/Navbar/Navbar';
-import Home from './Pages/Home/Home';
+import About from './Pages/About/About';
 import TitleBar from './Components/TitleBar/TitleBar';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { render } from '@testing-library/react';
@@ -10,10 +10,10 @@ function App() {
   return (
     <>
     <div className='app'>
-      <Router basename="https://aidanjj.github.io/ReactPortfolio/">
+      <Router /*basename="https://aidanjj.github.io/ReactPortfolio/"*/>
         <Navbar />
         <Routes>
-          <Route path='/' exact element={<Home/>} />
+          <Route path='/about-me' exact element={<About/>} />
         </Routes>
       </Router>
       </div>

@@ -1,5 +1,5 @@
 body{
-  justify-content: center;
+
 }
 
 li {
@@ -10,28 +10,37 @@ li {
 
 
 .nav-menu-items{
+  float: left;
 }
 
 .navbar{
+    display: flex;
     z-index: 9999;
-    background-color: black;
-    width: 50%;
+    background-color: #242424;
+    width: 75%;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     margin-top: -20px;
     margin-right: auto;
     margin-left: auto;
-    text-align: center;
+    justify-content: center;
 }
 
 .nav-text {
     color: white;
     margin: 0px 64px 0 64px;
+    
   }
 
 .nav-text a{
     text-decoration: none;
-    color: #FCEEDD;
+    color: white;
+}
+
+.contacts{
+  float: right;
+  padding-top: 1.6rem;
+  padding-left: 64px;
 }
 
 

@@ -13,7 +13,7 @@ function App() {
       <Router basename="https://aidanjj.github.io/AlbertPortfolio/">
         <Navbar />
         <Routes>
-          <Route path='/AlbertPortfolio' exact element={<About/>} />
+          <Route path='/AlbertPortfolio/' exact element={<About/>} />
         </Routes>
       </Router>
       </div>

@@ -10,9 +10,9 @@ function App() {
   return (
     <>
     <div className='app'>
-      <Router>
-      <Navbar />
-      <About/>
+      <Router basename="https://aidanjj.github.io/AlbertPortfolio">
+        <Navbar />
+        <About/>
       </Router>
       </div>
     </>

@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+import React,{useState,useRef} from 'react'
 import { Link } from 'react-router-dom';
 import {AiFillLinkedin, AiOutlineInstagram} from 'react-icons/ai'
 import {NavbarData} from './NavbarData';
@@ -7,6 +7,7 @@ import Fade from 'react-reveal/Fade';
 import './Navbar.css';
 
 function Navbar(){
+    const aboutSection = useRef(null);
     const handleScroll = (position) => {
         window.scroll({
             top: position,
@@ -23,7 +24,7 @@ function Navbar(){
                     {NavbarData.map((item,index) => {
                         return(
                         <li key={index} className={item.cName}>
-                            <button className="nav-button" id={item.id} onClick={handleScroll({position:1000})}>
+                            <button className="nav-button" id={item.id} onClick={handleScroll()}>
                                 <h2 className='text'>{item.title}</h2>
                             </button>
                         </li>

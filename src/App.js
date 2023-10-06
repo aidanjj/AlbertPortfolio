@@ -10,11 +10,9 @@ function App() {
   return (
     <>
     <div className='app'>
-      <Router basename="https://aidanjj.github.io/AlbertPortfolio/">
-        <Navbar />
-        <Routes>
-          <Route path='/' exact element={<About/>} />
-        </Routes>
+      <Router>
+      <Navbar />
+      <About/>
       </Router>
       </div>
     </>

@@ -7,6 +7,13 @@ import Fade from 'react-reveal/Fade';
 import './Navbar.css';
 
 function Navbar(){
+    const handleScroll = (position) => {
+        window.scroll({
+            top: position,
+            left: 0, 
+            behavior: 'smooth',
+          });
+    }
     return (
         <>
         <div className='nav'>
@@ -16,9 +23,9 @@ function Navbar(){
                     {NavbarData.map((item,index) => {
                         return(
                         <li key={index} className={item.cName}>
-                            <Link to={item.path} target='_self'>
+                            <button className="nav-button" id={item.id} onClick={handleScroll({position:1000})}>
                                 <h2 className='text'>{item.title}</h2>
-                            </Link>
+                            </button>
                         </li>
                         );
                     })}

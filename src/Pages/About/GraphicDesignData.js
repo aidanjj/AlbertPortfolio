@@ -5,31 +5,32 @@ export const GraphicDesignData = [
         name: 'GraphicDesign/Nike Air Adjust Force'
     },
     {
-        name: 'GraphicDesign/NEW1'
-    },
-    {
         name: 'GraphicDesign/huge'
-    },
-    {
-        name: 'GraphicDesign/NEW2'
-    },
-    {
-        name: 'GraphicDesign/openminded'
-    },
-    {
-        name: 'GraphicDesign/Screenshot 2023-10-01 at 8.06.23 PM'
     },
     {
         name: 'GraphicDesign/sweatshirt'
     },
     {
+        name: 'GraphicDesign/NEW2'
+    },
+    {
+        name: 'GraphicDesign/NEW1'
+    },
+    {
+        name: 'GraphicDesign/openminded'
+    },
+    {
+        name: 'GraphicDesign/tshirt'
+    },
+    {
+        name: 'GraphicDesign/Screenshot 2023-10-01 at 8.06.23 PM'
+    },
+    
+    {
         name: 'GraphicDesign/Tarot Mystics (1)'
     },
     {
         name: 'GraphicDesign/Tarot Mystics'
-    },
-    {
-        name: 'GraphicDesign/tshirt'
     },
     
 

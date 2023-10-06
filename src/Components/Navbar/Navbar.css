@@ -43,5 +43,12 @@ li {
   padding-left: 64px;
 }
 
+.nav-button{
+  z-index: 99999;
+  border: none;
+  color: white;
+  background: none;
+  cursor: pointer;
+}
 
 

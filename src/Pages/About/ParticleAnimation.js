@@ -35,7 +35,7 @@ function ParticleAnimation(){
                 }
             },
             "color": {
-                "value": "#000"
+                "value": "#fff"
             },
             "shape": {
                 "type": "star",

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AlbertPortfolio/static/css/main.ed95a17b.css",
-    "main.js": "/AlbertPortfolio/static/js/main.a47687b5.js",
+    "main.css": "/AlbertPortfolio/static/css/main.77d2fbb2.css",
+    "main.js": "/AlbertPortfolio/static/js/main.fe2862ab.js",
     "static/media/20210808_153654.png": "/AlbertPortfolio/static/media/20210808_153654.0a4b6d44fc5906b75d8c.png",
     "static/media/20221117_123538.png": "/AlbertPortfolio/static/media/20221117_123538.eaf38f190d8d8cec7e8a.png",
     "static/media/Untitled76_20211031010847.png": "/AlbertPortfolio/static/media/Untitled76_20211031010847.96be1666fed0966a8212.png",
@@ -45,11 +45,11 @@
     "static/media/Tarot Mystics (1).png": "/AlbertPortfolio/static/media/Tarot Mystics (1).38342364f76f6351f3a8.png",
     "static/media/BestLogic (1).png": "/AlbertPortfolio/static/media/BestLogic (1).87f714eaf5ee7bbbf8ae.png",
     "index.html": "/AlbertPortfolio/index.html",
-    "main.ed95a17b.css.map": "/AlbertPortfolio/static/css/main.ed95a17b.css.map",
-    "main.a47687b5.js.map": "/AlbertPortfolio/static/js/main.a47687b5.js.map"
+    "main.77d2fbb2.css.map": "/AlbertPortfolio/static/css/main.77d2fbb2.css.map",
+    "main.fe2862ab.js.map": "/AlbertPortfolio/static/js/main.fe2862ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed95a17b.css",
-    "static/js/main.a47687b5.js"
+    "static/css/main.77d2fbb2.css",
+    "static/js/main.fe2862ab.js"
   ]
 }

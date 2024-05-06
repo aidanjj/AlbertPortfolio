@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AlbertPortfolio/static/css/main.77d2fbb2.css",
-    "main.js": "/AlbertPortfolio/static/js/main.3115d01b.js",
+    "main.css": "/AlbertPortfolio/static/css/main.847696fb.css",
+    "main.js": "/AlbertPortfolio/static/js/main.00f84915.js",
     "static/media/20210808_153654.png": "/AlbertPortfolio/static/media/20210808_153654.0a4b6d44fc5906b75d8c.png",
     "static/media/20221117_123538.png": "/AlbertPortfolio/static/media/20221117_123538.eaf38f190d8d8cec7e8a.png",
     "static/media/Untitled76_20211031010847.png": "/AlbertPortfolio/static/media/Untitled76_20211031010847.96be1666fed0966a8212.png",
@@ -34,22 +34,44 @@
     "static/media/photo_2022-11-16 19.47.23.png": "/AlbertPortfolio/static/media/photo_2022-11-16 19.47.23.173e40461baf003cf025.png",
     "static/media/NEW1.png": "/AlbertPortfolio/static/media/NEW1.b1630abaf1e919b5b0d9.png",
     "static/media/20220808_202842.png": "/AlbertPortfolio/static/media/20220808_202842.c200d17d2a82d4b6b4a0.png",
+    "static/media/AstroSonic_poster.png": "/AlbertPortfolio/static/media/AstroSonic_poster.700210bdac49a75c0bd7.png",
     "static/media/Albert Edmundson 2 DT.png": "/AlbertPortfolio/static/media/Albert Edmundson 2 DT.16265bd176fe75d797e0.png",
+    "static/media/AstroSonic_website.png": "/AlbertPortfolio/static/media/AstroSonic_website.0709e24b5e0648c0c82d.png",
+    "static/media/Plakatstil.png": "/AlbertPortfolio/static/media/Plakatstil.fddb2c4e980b7cdef472.png",
     "static/media/Screenshot 2023-10-01 at 8.06.23 PM.png": "/AlbertPortfolio/static/media/Screenshot 2023-10-01 at 8.06.23 PM.d627bc8a29e2760d998b.png",
+    "static/media/SkullDrawing.png": "/AlbertPortfolio/static/media/SkullDrawing.00820ac0de3062d05fd1.png",
     "static/media/Albert Edmundson 2 DT4.png": "/AlbertPortfolio/static/media/Albert Edmundson 2 DT4.21f39082da952b87a7c4.png",
+    "static/media/BusinessCard.png": "/AlbertPortfolio/static/media/BusinessCard.7c389dbfa71e59c1c572.png",
+    "static/media/RumbleFish.png": "/AlbertPortfolio/static/media/RumbleFish.db81286c7dd61f4cda81.png",
+    "static/media/Coffee.png": "/AlbertPortfolio/static/media/Coffee.24ada938a5e593118c36.png",
+    "static/media/AstroSonic_social_media.png": "/AlbertPortfolio/static/media/AstroSonic_social_media.48fbd5356b768e224aac.png",
+    "static/media/Nike.png": "/AlbertPortfolio/static/media/Nike.9ae48ce7c8bc6f3a84b3.png",
+    "static/media/ShutUp.png": "/AlbertPortfolio/static/media/ShutUp.a6afcd3700106ad639dc.png",
+    "static/media/DogPortrait.png": "/AlbertPortfolio/static/media/DogPortrait.e62433b7044888f6386c.png",
     "static/media/BestLogic Staffing (1) copy.png": "/AlbertPortfolio/static/media/BestLogic Staffing (1) copy.ba67b25f44f0c9291e4f.png",
+    "static/media/Leaves.png": "/AlbertPortfolio/static/media/Leaves.c8e0e3188dd6608733cd.png",
     "static/media/Albert Edmundson 1 Org.png": "/AlbertPortfolio/static/media/Albert Edmundson 1 Org.5fe6e976b310f7a68439.png",
+    "static/media/AstroSonic_shirt.png": "/AlbertPortfolio/static/media/AstroSonic_shirt.f58bb041ecfdae6c15e5.png",
+    "static/media/AppleMonochromatic.png": "/AlbertPortfolio/static/media/AppleMonochromatic.df0a711aa2f24794b6e4.png",
     "static/media/Albert Edmundson 2 Purp.png": "/AlbertPortfolio/static/media/Albert Edmundson 2 Purp.ac56c48cd8f1cd01c7fa.png",
     "static/media/Tarot Mystics.png": "/AlbertPortfolio/static/media/Tarot Mystics.65475179663b2494ccc6.png",
     "static/media/BestLogic Staffing.png": "/AlbertPortfolio/static/media/BestLogic Staffing.77ac122fb19aa37339d4.png",
+    "static/media/Bedroom.png": "/AlbertPortfolio/static/media/Bedroom.191f85e6517a113b8711.png",
+    "static/media/MelonyMartinez.png": "/AlbertPortfolio/static/media/MelonyMartinez.7be3e37a9ecf69644493.png",
+    "static/media/DigitalPortrait.png": "/AlbertPortfolio/static/media/DigitalPortrait.3228b8277ff8204c3cf8.png",
+    "static/media/SugarSpire.png": "/AlbertPortfolio/static/media/SugarSpire.4f99be7068b1ab1f1b27.png",
+    "static/media/AstroSonic_mug.png": "/AlbertPortfolio/static/media/AstroSonic_mug.c288a990e5ba893e0231.png",
+    "static/media/CitrusMusic.png": "/AlbertPortfolio/static/media/CitrusMusic.e427be933d53f7fbe035.png",
     "static/media/Tarot Mystics (1).png": "/AlbertPortfolio/static/media/Tarot Mystics (1).38342364f76f6351f3a8.png",
+    "static/media/CitrusMusic_app.png": "/AlbertPortfolio/static/media/CitrusMusic_app.ac9ec3e46cee6369105d.png",
+    "static/media/BibleVerse_hoodie.png": "/AlbertPortfolio/static/media/BibleVerse_hoodie.9022a6828593249c5afc.png",
     "static/media/BestLogic (1).png": "/AlbertPortfolio/static/media/BestLogic (1).87f714eaf5ee7bbbf8ae.png",
     "index.html": "/AlbertPortfolio/index.html",
-    "main.77d2fbb2.css.map": "/AlbertPortfolio/static/css/main.77d2fbb2.css.map",
-    "main.3115d01b.js.map": "/AlbertPortfolio/static/js/main.3115d01b.js.map"
+    "main.847696fb.css.map": "/AlbertPortfolio/static/css/main.847696fb.css.map",
+    "main.00f84915.js.map": "/AlbertPortfolio/static/js/main.00f84915.js.map"
   },
   "entrypoints": [
-    "static/css/main.77d2fbb2.css",
-    "static/js/main.3115d01b.js"
+    "static/css/main.847696fb.css",
+    "static/js/main.00f84915.js"
   ]
 }

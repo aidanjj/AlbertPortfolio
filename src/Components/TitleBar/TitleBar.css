@@ -1,9 +1,0 @@
-.titlebar{
-    z-index: 9999;
-    position:relative;
-    display: flex;
-    justify-content: center;
-    padding: 5px 0px 5px 0px;
-    width: 100%;
-    background-color: aqua;
-}

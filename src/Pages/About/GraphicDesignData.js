@@ -2,72 +2,45 @@ import React from 'react';
 
 export const GraphicDesignData = [
     {
-        name: 'GraphicDesign/Nike Air Adjust Force'
+        name: 'GraphicDesign/AstroSonic_poster'
     },
     {
-        name: 'GraphicDesign/huge'
+        name: 'GraphicDesign/Nike'
     },
     {
-        name: 'GraphicDesign/sweatshirt'
+        name: 'GraphicDesign/Plakatstil'
     },
     {
-        name: 'GraphicDesign/NEW2'
+        name: 'GraphicDesign/RumbleFish'
     },
     {
-        name: 'GraphicDesign/NEW1'
+        name: 'GraphicDesign/ShutUp'
     },
     {
-        name: 'GraphicDesign/openminded'
+        name: 'GraphicDesign/SugarSpire'
     },
     {
-        name: 'GraphicDesign/tshirt'
+        name: 'GraphicDesign/AstroSonic_mug'
     },
     {
-        name: 'GraphicDesign/Screenshot 2023-10-01 at 8.06.23 PM'
-    },
-    
-    {
-        name: 'GraphicDesign/Tarot Mystics (1)'
+        name: 'GraphicDesign/BibleVerse_hoodie'
     },
     {
-        name: 'GraphicDesign/Tarot Mystics'
-    },
-    
-
-
-    {
-        name: 'GraphicDesign/BestLogic (1)'
+        name: 'GraphicDesign/AstroSonic_social_media'
     },
     {
-        name: 'GraphicDesign/BestLogic Staffing (1) copy'
+        name: 'GraphicDesign/AstroSonic_shirt'
     },
     {
-        name: 'GraphicDesign/BestLogic Staffing'
+        name: 'GraphicDesign/BusinessCard'
     },
     {
-        name: 'GraphicDesign/hmlv-mug-007'
+        name: 'GraphicDesign/CitrusMusic_app'
     },
     {
-        name: 'GraphicDesign/landingfrontphoto1'
+        name: 'GraphicDesign/Coffee'
     },
     {
-        name: 'GraphicDesign/smartmockups_ln87lcmq'
+        name: 'GraphicDesign/AstroSonic_website'
     },
-    {
-        name: 'GraphicDesign/Untitled design'
-    },
-
-
-    {
-        name: 'GraphicDesign/Albert Edmundson 1 Org'
-    },
-    {
-        name: 'GraphicDesign/Albert Edmundson 2 DT'
-    },
-    {
-        name: 'GraphicDesign/Albert Edmundson 2 DT4'
-    },
-    {
-        name: 'GraphicDesign/Albert Edmundson 2 Purp'
-    },
-];
+]

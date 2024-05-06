@@ -1,32 +1,32 @@
-
-body{
+body {
     display: flex;
-    background: linear-gradient(180deg,#242424 20vh,100vh,#50b9e6 50%,#357a98 100%);
+    background: linear-gradient(180deg, #242424 20vh, 100vh, #50b9e6 50%, #357a98 100%);
     background-color: #50b9e6;
-    
+
     color: #242424;
     height: 1000vh;
     justify-content: center;
 }
-.particles{
+
+.particles {
     position: absolute;
     z-index: -1;
 }
 
 
-.photo{
+.photo {
     flex-shrink: 2;
     width: 20rem;
     float: right;
     border-radius: 30px;
-    border-style:solid;
-    border-color:#242424;
+    border-style: solid;
+    border-color: #242424;
     border-width: 5px;
     margin-top: 10rem;
-    
+
 }
 
-.introduction-container{
+.introduction-container {
     display: flex;
     width: 50%;
     margin-left: auto;
@@ -35,26 +35,26 @@ body{
     justify-content: center;
 }
 
-.introduction{
+.introduction {
     flex-shrink: 2;
     float: left;
     padding-right: 5%;
     padding-top: 5rem;
 }
 
-.image-container{
+.image-container {
     flex-wrap: wrap;
     position: relative;
     display: flex;
-    justify-content:center;
+    justify-content: center;
     width: 100%;
     /*text-align: center;*/
     margin-left: auto;
     margin-right: auto;
-   
+
 }
 
-.image-background{
+.image-background {
     margin-bottom: 0;
     text-align: center;
 }
@@ -63,16 +63,17 @@ body{
     background-color: #242424;
 }*/
 
-.image{
+.image {
     height: 20em;
     width: 20em;
     margin-left: 2px;
     margin-right: 2px;
     cursor: pointer;
-    border-style:solid;
-    border-width:2px;
+    border-style: solid;
+    border-width: 2px;
     object-fit: cover;
 }
+
 /*.image:hover{
     opacity: 0;
 }
@@ -82,28 +83,38 @@ body{
     z-index: -1;
 }*/
 
-.about-container{
+.about-container {
     font-size: 24px;
     padding-top: 20rem;
     width: 50%;
-    text-align: left;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
-.about-title{
+
+.about-title {
     margin-bottom: 6px;
 }
 
-.about-description{
+.about-description {
     padding-top: 10px;
 }
 
-.graphics-container{
+.section-container {
     text-align: center;
     justify-content: center;
 }
 
-.graphics-title{
+.section-description {
+    font-size: 24px;
+    width: 50%;
+    padding-bottom: 5rem;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section-title {
     padding-top: 65vh;
     font-size: large;
     font-size: 48px;
@@ -112,7 +123,7 @@ body{
 }
 
 
-.clicked-image{
+.clicked-image {
     position: fixed;
     z-index: 999;
     height: 80%;
@@ -124,7 +135,7 @@ body{
 }
 
 
-.close-button{
+.close-button {
     z-index: 9999;
     color: #242424;
     position: fixed;
@@ -135,6 +146,7 @@ body{
     right: 0;
     top: 0;
 }
-.close-button:hover{
+
+.close-button:hover {
     color: gray;
 }

@@ -1,5 +1,5 @@
 body{
-
+  color: white;
 }
 
 li {
@@ -8,10 +8,6 @@ li {
   }
 
 
-
-.nav-menu-items{
-  float: left;
-}
 
 .navbar{
     display: flex;
@@ -26,28 +22,20 @@ li {
     justify-content: center;
 }
 
-.nav-text {
-    color: white;
-    margin: 0px 64px 0 64px;
-    
-  }
-
-.nav-text a{
-    text-decoration: none;
-    color: white;
-}
-
 .contacts{
   float: right;
   padding-top: 1.6rem;
   padding-left: 64px;
 }
 
-.nav-button{
+.text{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.scroll-button{
   z-index: 99999;
-  border: none;
   color: white;
-  background: none;
   cursor: pointer;
 }
 

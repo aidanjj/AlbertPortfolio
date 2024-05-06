@@ -3,20 +3,20 @@ import {AiFillLinkedin, AiOutlineInstagram} from 'react-icons/ai'
 
 export const NavbarData = [
     {
-        title: 'ABOUT ME',
+        title: 'About Me',
         position: 1000,
-        cName: 'nav-text',
+        componentName: 'about-me'
     },
     {
-        title: 'Test1',
+        title: 'Graphic Design',
         position: 1000,
-        cName: 'nav-text',
+        componentName: 'graphics'
 
     },
     {
-        title: 'Test2',
+        title: 'Illustrations',
         position: 1000,
-        cName: 'nav-text'
+        componentName: 'illustrations'
     },
 
 ];

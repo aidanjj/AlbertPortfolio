@@ -1,46 +1,39 @@
 import React,{useState,useRef} from 'react'
-import { Link } from 'react-router-dom';
 import {AiFillLinkedin, AiOutlineInstagram} from 'react-icons/ai'
 import {NavbarData} from './NavbarData';
 import {IconContext} from 'react-icons';
 import Fade from 'react-reveal/Fade';
+import {Link} from 'react-scroll'
 import './Navbar.css';
 
-function Navbar(){
-    const aboutSection = useRef(null);
-    const handleScroll = (position) => {
-        window.scroll({
-            top: position,
-            left: 0, 
-            behavior: 'smooth',
-          });
-    }
+function Navbar({refs}){
     return (
         <>
         <div className='nav'>
-        <IconContext.Provider value={{color: '#fff'}}>
-            <nav className='navbar'>
-                <ul className='nav-menu-items'>
-                    {NavbarData.map((item,index) => {
-                        return(
-                        <li key={index} className={item.cName}>
-                            <button className="nav-button" id={item.id} onClick={handleScroll()}>
-                                <h2 className='text'>{item.title}</h2>
-                            </button>
-                        </li>
-                        );
-                    })}
-                    <div className="contacts">
-                    <Link to="https://www.linkedin.com/in/albert-edmundson-4ab92b277/" target="_blank">
-                        <AiFillLinkedin size={20}/>
-                    </Link>
-                    <AiOutlineInstagram size={20}/>
-                </div>
-                </ul>
-                
+            <IconContext.Provider value={{color: '#fff'}}>
+                <nav className='navbar'>
+                    <ul className='nav-menu-items'>
+                        {NavbarData.map((item,index) => {
+                            return(
+                            <li key={index} className={item.cName}>
+                                <Link to={item.componentName} spy={true} smooth={true} duration={500} offset={300} className='scroll-button'>
+                                    <h2 className='text'>{item.title}</h2>
+                                </Link>
+                            </li>
+                            );
+                        })}
+                        <div className="contacts">
+                            <a href="https://www.linkedin.com/in/albert-edmundson-4ab92b277/" target="_blank" rel="noopener noreferrer">
+                                <AiFillLinkedin size={20}/>
+                            </a>
+                            <a href="https://www.instagram.com/albertjdesigns" target="_blank" rel="noopener noreferrer">
+                                <AiOutlineInstagram size={20}/>
+                            </a>
+                        </div>
+                    </ul>
+                    
                 </nav>
-                
-            </IconContext.Provider>
+                </IconContext.Provider>
             </div>
         </>
     )

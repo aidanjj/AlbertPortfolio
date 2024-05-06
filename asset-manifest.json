@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AlbertPortfolio/static/css/main.847696fb.css",
-    "main.js": "/AlbertPortfolio/static/js/main.00f84915.js",
+    "main.css": "/AlbertPortfolio/static/css/main.cdc916f7.css",
+    "main.js": "/AlbertPortfolio/static/js/main.f666149a.js",
     "static/media/20210808_153654.png": "/AlbertPortfolio/static/media/20210808_153654.0a4b6d44fc5906b75d8c.png",
     "static/media/20221117_123538.png": "/AlbertPortfolio/static/media/20221117_123538.eaf38f190d8d8cec7e8a.png",
     "static/media/Untitled76_20211031010847.png": "/AlbertPortfolio/static/media/Untitled76_20211031010847.96be1666fed0966a8212.png",
@@ -19,7 +19,6 @@
     "static/media/photo_2023-09-20 18.58.59.png": "/AlbertPortfolio/static/media/photo_2023-09-20 18.58.59.7266d0ea976de1b04a15.png",
     "static/media/20211002_222428.png": "/AlbertPortfolio/static/media/20211002_222428.a0ae8650c208a0cde891.png",
     "static/media/Untitled136_20220705090618.png": "/AlbertPortfolio/static/media/Untitled136_20220705090618.be819fe2ee9947bd4564.png",
-    "static/media/albert.png": "/AlbertPortfolio/static/media/albert.7f15f39cd0738cb7cc76.png",
     "static/media/huge.png": "/AlbertPortfolio/static/media/huge.86e4c59c82fd7d1f300e.png",
     "static/media/photo_2023-09-20 18.58.56.png": "/AlbertPortfolio/static/media/photo_2023-09-20 18.58.56.0daedd7a9ae19a78339a.png",
     "static/media/IMG_20210831_132413_518.png": "/AlbertPortfolio/static/media/IMG_20210831_132413_518.ed8064ebc5d8463953ac.png",
@@ -58,6 +57,7 @@
     "static/media/BestLogic Staffing.png": "/AlbertPortfolio/static/media/BestLogic Staffing.77ac122fb19aa37339d4.png",
     "static/media/Bedroom.png": "/AlbertPortfolio/static/media/Bedroom.191f85e6517a113b8711.png",
     "static/media/MelonyMartinez.png": "/AlbertPortfolio/static/media/MelonyMartinez.7be3e37a9ecf69644493.png",
+    "static/media/albert.png": "/AlbertPortfolio/static/media/albert.7f15f39cd0738cb7cc76.png",
     "static/media/DigitalPortrait.png": "/AlbertPortfolio/static/media/DigitalPortrait.3228b8277ff8204c3cf8.png",
     "static/media/SugarSpire.png": "/AlbertPortfolio/static/media/SugarSpire.4f99be7068b1ab1f1b27.png",
     "static/media/AstroSonic_mug.png": "/AlbertPortfolio/static/media/AstroSonic_mug.c288a990e5ba893e0231.png",
@@ -67,11 +67,11 @@
     "static/media/BibleVerse_hoodie.png": "/AlbertPortfolio/static/media/BibleVerse_hoodie.9022a6828593249c5afc.png",
     "static/media/BestLogic (1).png": "/AlbertPortfolio/static/media/BestLogic (1).87f714eaf5ee7bbbf8ae.png",
     "index.html": "/AlbertPortfolio/index.html",
-    "main.847696fb.css.map": "/AlbertPortfolio/static/css/main.847696fb.css.map",
-    "main.00f84915.js.map": "/AlbertPortfolio/static/js/main.00f84915.js.map"
+    "main.cdc916f7.css.map": "/AlbertPortfolio/static/css/main.cdc916f7.css.map",
+    "main.f666149a.js.map": "/AlbertPortfolio/static/js/main.f666149a.js.map"
   },
   "entrypoints": [
-    "static/css/main.847696fb.css",
-    "static/js/main.00f84915.js"
+    "static/css/main.cdc916f7.css",
+    "static/js/main.f666149a.js"
   ]
 }
